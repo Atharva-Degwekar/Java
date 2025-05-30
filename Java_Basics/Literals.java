@@ -1,6 +1,6 @@
 public static void main()
 {
-    //Literals
+    //Java_Basics.Literals
 
     // Binary values
     int a = 0b1011;
